@@ -43,17 +43,11 @@ if(cpp != 0)
     else
         moy = 0;
 
-
-
-
-
-
 pourcentage= (float)nbrc / total * 100;
 printf("%f est la moyenne\n",moy);
 printf("%f est le pourcentage\n",pourcentage);
-printf("%d est le nombre de nomnre impaire multiple de 7 et divisible par 3",cptimp);
-
-
+printf("%d est le nombre de nomnre impaire multiple de 7 et divisible par 3\n",cptimp);
+puts("merci beaucoup");
 
 
 
